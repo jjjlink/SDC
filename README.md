@@ -22,6 +22,9 @@ We consider 8 datasets for evaluation the effectiveness of the proposed method:
 ## Contact
 If you have any questions, feel free to create an issue in this repository.
 
+## Note
+We will release the code on GitHub upon acceptance of the paper.
+
 ## Acknowledgements
 Our gratitude goes to the authors of [PCB](https://github.com/kaist-dmlab/pcb) and [CoOp/CoCoOp](https://github.com/KaiyangZhou/CoOp) for sharing their work through open-source implementation.
 
