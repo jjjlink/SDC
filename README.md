@@ -16,7 +16,7 @@ We consider 8 datasets for evaluation the effectiveness of the proposed method:
 * [Flower102](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz)
 * [Caltech101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/101_ObjectCategories.tar.gz)
 * [StanfordCars](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
-* [FGVCAircraft]([https://ai.stanford.edu/~jkrause/cars/car_dataset.html](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/archives/fgvc-aircraft-2013b.tar.gz.))
+* [FGVCAircraft](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/archives/fgvc-aircraft-2013b.tar.gz.)
 * [SUN397](http://vision.princeton.edu/projects/2010/SUN/SUN397.tar.gz)
 
 ## Contact
